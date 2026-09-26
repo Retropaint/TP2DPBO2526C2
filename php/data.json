@@ -1,0 +1,57 @@
+[
+  {
+    "judul": "Hoodwinked",
+    "genre": "Comedy",
+    "durasi": 81,
+    "hargaTiket": 20,
+    "namaBioskop": "SSI21",
+    "ageRequirement": 14,
+    "levelVip": 0,
+    "jenisBioskop": "None",
+    "hargaTiketExtra": 0
+  },
+  {
+    "judul": "Backrooms",
+    "genre": "Horror",
+    "durasi": 110,
+    "hargaTiket": 20,
+    "namaBioskop": "CGV",
+    "ageRequirement": 16,
+    "levelVip": 2,
+    "jenisBioskop": "IMAX",
+    "hargaTiketExtra": 20
+  },
+  {
+    "judul": "Wall-E",
+    "genre": "SCI-FI",
+    "durasi": 98,
+    "hargaTiket": 20,
+    "namaBioskop": "SSI21",
+    "ageRequirement": 12,
+    "levelVip": 0,
+    "jenisBioskop": "None",
+    "hargaTiketExtra": 0
+  },
+  {
+    "judul": "FNAF",
+    "genre": "Horror",
+    "durasi": 109,
+    "hargaTiket": 20,
+    "namaBioskop": "SSI21",
+    "ageRequirement": 14,
+    "levelVip": 0,
+    "jenisBioskop": "None",
+    "hargaTiketExtra": 0
+  },
+  {
+    "judul": "BreakingBad",
+    "genre": "Meth",
+    "durasi": 999,
+    "hargaTiket": 20,
+    "namaBioskop": "SSI21",
+    "ageRequirement": 17,
+    "levelVip": 0,
+    "jenisBioskop": "None",
+    "hargaTiketExtra": 0
+  }
+]

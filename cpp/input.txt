@@ -1,0 +1,5 @@
+add Hoodwinked  Comedy 81  20 SSI21 14 0 None 0
+add Backrooms   Horror 110 20 CGV   16 2 IMAX 20
+add Wall-E      SCI-FI 98  20 SSI21 12 0 None 0
+add FNAF        Horror 109 20 SSI21 14 0 None 0
+add BreakingBad Meth   999 20 SSI21 17 0 None 0
